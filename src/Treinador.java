@@ -17,4 +17,6 @@ public class Treinador extends Pessoas{
 		 public void setEspecialidade(String especialidadePar){
 			 this.especialidade = especialidadePar;
 		 }
+		 
+		
 }
