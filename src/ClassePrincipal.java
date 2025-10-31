@@ -10,6 +10,10 @@ public class ClassePrincipal {
 		
 		obat_1.mostrarInformacoes();
 		obat_2.mostrarInformacoes();
+		
+		Scanner sc = new Scanner(System.in);
+		
+		ArrayList<Atleta> atlate_var = new ArrayList();
 	}
 
 }
