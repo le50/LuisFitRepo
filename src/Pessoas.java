@@ -37,4 +37,13 @@ public class Pessoas {
  public void alteraridade(int idadePar){
 	 this.idade = idadePar;
  }
+ 
+ //Classe Pessoa
+ public void mostrarInformacoes(){
+	 System.out.println(id); //sysout ctrl + space
+	 System.out.println(nome);
+	 System.out.println(idade);
+	 }
+ 
+ 	
 }
